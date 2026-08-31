@@ -25,7 +25,7 @@ That turns a game of picking players into a game of **running a club**: you sell
 you can no longer pay, you promote a 19-year-old before he ages out of the youth squad, you
 weigh a fourth-place finish against a wage bill you'll still be paying in two seasons.
 
-Ten people run eight clubs in it, every week. The rules are a written constitution of 41
+Eleven people run eight clubs in it, every week. The rules are a written constitution of 41
 chapters, amendable by vote, and the software is its enforcement.
 
 <p align="center">
