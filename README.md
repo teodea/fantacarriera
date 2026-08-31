@@ -8,9 +8,9 @@ You land as the president of a showcase club. Every page is real and every numbe
 computed by the live engine; the controls are switched off, so you can look at anything
 without changing anyone's season.
 
-> This repository is a **showcase**. It has no source code in it — the two repos behind
-> the product are private, because a live league of eight people plays in there. What
-> follows is what the thing is, how it is built, and what it took.
+> This repository is a **showcase** — no source code in it. The two repos behind the
+> product are private, because a live league of eight people plays in there. What follows
+> is what the thing is, how it's built, and what it took.
 
 ---
 
@@ -119,5 +119,4 @@ language.
 
 ---
 
-<sub>Built by <a href="https://github.com/teodea">Matteo De Angelis</a>. Source is private;
-happy to walk through any part of it in a conversation.</sub>
+<sub>Built by <a href="https://github.com/teodea">Matteo De Angelis</a>. The source stays private — a real league plays in there.</sub>
