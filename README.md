@@ -25,7 +25,7 @@ That turns a game of picking players into a game of **running a club**: you sell
 you can no longer pay, you promote a 19-year-old before he ages out of the youth squad, you
 weigh a fourth-place finish against a wage bill you'll still be paying in two seasons.
 
-Eleven people run eight clubs in it, every week. The rules are a written constitution of 41
+Eleven people run eight clubs in it, every week. The rules are a written constitution of 43
 chapters, amendable by vote, and the software is its enforcement.
 
 <p align="center">
@@ -36,7 +36,7 @@ chapters, amendable by vote, and the software is its enforcement.
 
 ## What's actually hard about it
 
-**A rulebook is not a spec.** 41 chapters of natural language, written by and for humans,
+**A rulebook is not a spec.** 43 chapters of natural language, written by and for humans,
 that have to become deterministic code, and stay in sync when the league amends them. The
 rulebook ships inside the app (below), so the text people vote on and the text the engine
 obeys cannot drift apart.
@@ -103,7 +103,9 @@ Six months, built solo, from empty repo to production:
 | Lines | 114k | 79k |
 | Test files | 222 | 125 |
 
-Plus 68 architecture decision records, a 41-chapter rulebook kept in three synchronised
+<sub>Counted August 2026. They only go up.</sub>
+
+Plus 68 architecture decision records, a 43-chapter rulebook kept in three synchronised
 formats, and a season of real play on top of it.
 
 ---

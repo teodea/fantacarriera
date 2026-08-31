@@ -1,0 +1,11 @@
+{
+  "name": "fantacarriera-vetrina",
+  "private": true,
+  "description": "Strumenti di manutenzione della vetrina. Non e' il prodotto.",
+  "scripts": {
+    "screenshot": "node tools/screenshot.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
