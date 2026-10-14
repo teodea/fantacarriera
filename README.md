@@ -84,7 +84,7 @@ The frontend holds no business logic. It is deliberately a thin proxy: one servi
 data and the rules, so there is exactly one place where a rule can be wrong.
 
 Every non-obvious decision is written down as an **ADR** before the code exists. There are
-68 of them so far, covering things like why money is stored in integer cents, why writes
+80 of them so far, covering things like why money is stored in integer cents, why writes
 need a second gate, and why the ledger was split into three.
 
 <p align="center">
@@ -95,17 +95,17 @@ need a second gate, and why the ledger was split into three.
 
 ## Scale
 
-Six months, built solo, from empty repo to production:
+Built solo, from an empty repo in February 2026 to production:
 
 | | Frontend | Backend |
 |---|---:|---:|
-| Commits | 764 | 429 |
-| Lines | 114k | 79k |
-| Test files | 222 | 125 |
+| Commits | 978 | 573 |
+| Lines | 146k | 117k |
+| Test files | 258 | 152 |
 
-<sub>Counted August 2026. They only go up.</sub>
+<sub>Counted October 2026. They only go up.</sub>
 
-Plus 68 architecture decision records, a 43-chapter rulebook kept in three synchronised
+Plus 80 architecture decision records, a 43-chapter rulebook kept in three synchronised
 formats, and a season of real play on top of it.
 
 ---
